@@ -37,7 +37,7 @@ Data can be accessed at the following URL:
 
 ## Installation and Usage
 
-- Ensure Jupyter Notebook or JupyterLab is installed to run the .ipynb file. Dependencies include pandas, numpy, and scikit-learn. * * *   Install these packages via pip or conda if not already present.
+- Ensure Jupyter Notebook or JupyterLab is installed to run the `.ipynb` file. Dependencies include `pandas`, `numpy`, and `scikit-learn`. Install these packages via pip or conda if not already present.
 
       pip install pandas numpy scikit-learn 
 
