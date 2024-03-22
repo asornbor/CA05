@@ -8,10 +8,9 @@ This project explores the application of the k-Nearest Neighbors (kNN) algorithm
 
 The dataset comprises movie ratings, providing insights into user preferences and behaviors:
 
- - **Data Characteristics:** Includes user IDs, movie IDs, ratings, and timestamps.
- - **Number of movies:** To be determined upon dataset inspection.
- - **Number of users:** To be determined upon dataset inspection.
- - **Rating scale:** 1 to 5, where 5 represents the highest affinity.
+ - **Data Characteristics:** Includes user IDs, movie IDs, ratings, movie types.
+ - **Types of Movies:** 7 Types of movies.
+ - **IMBD Rating scale:** 1 to 10, where 10 represents the highest affinity.
 
 Data can be accessed at the following URL:
 [https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv](https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv)
@@ -24,11 +23,7 @@ Data can be accessed at the following URL:
       - Utilize the kNN algorithm to develop the recommendation system. The model should identify similar movies based on user ratings.
       - Optimize the model by selecting an appropriate value for k (the number of neighbors).
 
-  3. **Model Evaluation:**
-      - Evaluate the model's performance using suitable metrics, such as Mean Squared Error (MSE) or Root Mean Squared Error (RMSE), to measure the accuracy of predictions.
-      - Perform cross-validation to ensure the model's reliability and robustness.
-
- 4. **Recommendation Demonstration:** Demonstrate the recommendation system by selecting a few movies and displaying the top recommendations for each.
+ 3. **Recommendation Demonstration:** Demonstrate the recommendation system by selecting a few movies and displaying the top recommendations for each.
 
 ## Deliverables
 
